@@ -9,4 +9,6 @@
 
 - 📫 How to reach me **me@andrew-schutt.com**
 
+- 🐦 Follow and tweet at me https://twitter.com/andrew_schutt11
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/schuttandrew/](https://www.linkedin.com/in/schuttandrew/)
