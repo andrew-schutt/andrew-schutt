@@ -3,12 +3,12 @@
 
 - 🌱 I’m currently using **Ruby, Rails, TypeScript, and React**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/andrew-schutt](https://www.github.com/andrew-schutt)
+- 👨‍💻 Projects [https://www.github.com/andrew-schutt](https://www.github.com/andrew-schutt)
 
-- 📝 I sometimes write articles on [https://www.andrew-schutt.com](https://www.andrew-schutt.com)
+- 📝 Where I would blog [https://www.andrew-schutt.com](https://www.andrew-schutt.com)
 
-- 📫 How to reach me **me@andrew-schutt.com**
+- 📫 Send me a nice note **me@andrew-schutt.com**
 
-- 🐦 Follow and tweet at me https://twitter.com/andrew_schutt11
+- 🐦 Tweet dog pictures to me https://twitter.com/andrew_schutt11
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/schuttandrew/](https://www.linkedin.com/in/schuttandrew/)
+- 📄 My experience [https://www.linkedin.com/in/schuttandrew/](https://www.linkedin.com/in/schuttandrew/)
