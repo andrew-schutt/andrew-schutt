@@ -7,7 +7,7 @@
 
 - 📝 Where I would blog [https://www.andrew-schutt.com](https://www.andrew-schutt.com)
 
-- 📫 Send me a nice note me@andrew-schutt.com
+- 📫 Send me a nice note **me@andrew-schutt.com**
 
 - 🐦 Tweet dog pictures to me https://twitter.com/andrew_schutt11
 
