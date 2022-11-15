@@ -5,6 +5,4 @@
 
 - 📫 Send me a nice note me@andrew-schutt.com
 
-- 🐦 Tweet dog pictures to me https://twitter.com/andrew_schutt11
-
 - 📄 My experience [https://www.linkedin.com/in/schuttandrew/](https://www.linkedin.com/in/schuttandrew/)
